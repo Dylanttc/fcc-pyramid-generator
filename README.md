@@ -1,6 +1,6 @@
 # Pyramid Generator
 
-Hey there! This is a little JavaScript project I worked on while going through freeCodeCamp's introductory JavaScript course. It makes a cool pyramid pattern in the console.
+This is the first lesson of freeCodeCamp's javascript course. I learnt fundamental programming concepts in JavaScript by building a Pyramid Generator.
 
 ## What I Learned
 
