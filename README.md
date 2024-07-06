@@ -53,5 +53,3 @@ This is the first lesson of freeCodeCamp's javascript course. I learnt fundament
 
 - **Console Output:**
   - `console.log(result);` - Prints the pyramid to the console.
-
-This project helped me get a handle on basic JavaScript concepts and syntax. It’s a fun way to see how loops, functions, and arrays can come together to make something neat!
